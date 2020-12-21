@@ -11,3 +11,6 @@ result: return 4 water tanks -> THHT-HTH-TH
 
 input: string -HH--HH
 result: return -1 since it's not possible to supply all houses with water tanks
+
+input: string -------
+result: return 0 since there is no water tank needed
